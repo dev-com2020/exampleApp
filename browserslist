@@ -1,0 +1,12 @@
+# Ten plik jest używany przez system kompilacji w celu dostosowania danych wyjściowych CSS i JS do obsługi wymienionych niżej przeglądarek WWW.
+# Więcej informacji na temat formatu pliku i opcji znajdziesz pod adresem:
+# https://github.com/browserslist/browserslist#queries
+
+# Aby sprawdzić przeglądarki WWW wybrane przez zapytania, należy wydać następujące polecenie:
+#   npx browserslist
+
+> 0.5%
+last 2 versions
+Firefox ESR
+not dead
+not IE 9-11 # For IE 9-11 support, remove 'not'.
